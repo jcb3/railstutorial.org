@@ -1,4 +1,5 @@
 require 'test_helper'
+require 'nokogiri'
 
 class UserTest < ActiveSupport::TestCase
   def setup
